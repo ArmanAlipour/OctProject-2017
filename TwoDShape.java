@@ -1,4 +1,16 @@
 
+/**********************************************************************
+ *  Parent class TwoDShape
+ *  Implements the common methods of any 2D shape.
+ *  The abstract methods need info about the specific 2DShape which is 
+ *  left for the subclass to implement.
+ *  Note: Main cannot instantiate (call the constructor method) this class
+ *        due to abstract method.
+ *        Subclasses can call the constructor method.
+ *
+ *
+ ***********************************************************************/
+
 public abstract class TwoDShape
 {
   // Attribtes
