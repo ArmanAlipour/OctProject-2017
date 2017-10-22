@@ -1,3 +1,10 @@
+/********************************************************
+ *  Class: Triangle
+ *         Extends parent object TwoDShape
+ *         Provide methods for calculating the area and
+ *         Perimeter of a Triangle shape.
+ *
+ *********************************************************/
 public class Triangle extends TwoDShape
 {
   // Attributes

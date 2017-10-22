@@ -1,3 +1,10 @@
+/********************************************************
+ *  Class: Circle
+ *         Extends parent object TwoDShape
+ *         Provide methods for calculating the area and
+ *         Perimeter/circuference of a Circle shape.
+ *
+ *********************************************************/
 public class Circle extends TwoDShape
 {
   // Attributes
